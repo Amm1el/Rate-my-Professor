@@ -1,0 +1,46 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Dr. Johnson explains complex concepts clearly and makes physics interesting. Her problem-solving sessions are particularly helpful."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Prof. Chen's passion for literature is contagious. His classes are always engaging and thought-provoking. Highly recommended!"
+      },
+      {
+        "professor": "Dr. Sarah Rodriguez",
+        "subject": "Computer Science",
+        "stars": 3,
+        "review": "Dr. Rodriguez knows her stuff, but her teaching style can be a bit dry. The assignments are challenging but fair."
+      },
+      {
+        "professor": "Prof. David Lee",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "Prof. Lee's lectures are hard to follow. He often seems unprepared and struggles to answer students' questions clearly."
+      },
+      {
+        "professor": "Dr. Amanda Taylor",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Dr. Taylor is an outstanding professor! She brings psychology to life with real-world examples and interactive discussions. Her enthusiasm is infectious."
+      },
+      {
+        "professor": "Prof. Robert Brown",
+        "subject": "History",
+        "stars": 4,
+        "review": "Prof. Brown has an encyclopedic knowledge of history. His lectures are fascinating, though sometimes he goes off on tangents."
+      },
+      {
+        "professor": "Dr. Lisa Wang",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Dr. Wang is knowledgeable but can be intimidating. Her exams are tough, but she offers good support during office hours."
+      }
+    ]
+  }
