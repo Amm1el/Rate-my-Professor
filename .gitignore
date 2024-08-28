@@ -37,4 +37,3 @@ next-env.d.ts
 
 # Ignore environment configuration files
 .env
-.env.local
